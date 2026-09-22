@@ -110,6 +110,3 @@ Use o [Postman](https://www.postman.com/) para testar os endpoints. Fluxo básic
 
 Roberto — [https://www.linkedin.com/in/roberto-oliveira-613987254/](#) 
 
-## 👤 Autor
-
-Roberto — [LinkedIn](#) · [GitHub](#)
