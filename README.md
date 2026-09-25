@@ -106,6 +106,12 @@ Use o [Postman](https://www.postman.com/) para testar os endpoints. Fluxo básic
 - [ ] Deploy em ambiente cloud (Render/Railway)
 - [ ] CRUD de comentários
 
+##  Projeto no ar
+
+- **API:** https://sistemachamados-s1wb.onrender.com
+- **Documentação interativa (Swagger):** https://sistemachamados-s1wb.onrender.com/swagger-ui/index.html
+
+> ⚠️ Hospedado no plano gratuito do Render — a primeira requisição após período de inatividade pode levar de 30 a 60 segundos.
 ## Autor
 
 Roberto — [https://www.linkedin.com/in/roberto-oliveira-613987254/](#) 
